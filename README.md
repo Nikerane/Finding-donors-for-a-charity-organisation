@@ -21,7 +21,7 @@ F-score, which measures the balance between precision and recall, follows a simi
 
 Random Forest is a great choice since it trains quickly and predicts quickly. However, if accuracy is the top priority, Gradient Boosting is slightly better, but it takes much longer to train. AdaBoost is a decent option but is slower in making predictions.
 
-### Install
+## Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
